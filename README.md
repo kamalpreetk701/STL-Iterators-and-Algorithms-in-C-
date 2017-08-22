@@ -1,6 +1,6 @@
 # STL-Iterators-and-Algorithms-in-C++
 
-The project contains one file Assignment5.cpp which contains the following functions:-
+The project contains one file a5.cpp which contains the following functions:-
 
  1. bool is_palindrome(const std::string & phrase)
  
